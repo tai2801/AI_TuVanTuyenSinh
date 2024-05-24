@@ -1,0 +1,37 @@
+{
+ "note": "Dữ liệu minh họa ACU 2024",
+ "methods": [
+  {
+   "code": "THPT",
+   "name": "Xét điểm thi tốt nghiệp THPT",
+   "description": "Dùng tổng điểm tổ hợp 3 môn của ngành, cộng điểm ưu tiên theo quy chế.",
+   "condition": "Tốt nghiệp THPT, đạt ngưỡng điểm sàn minh họa của trường.",
+   "timeline": "Theo lịch chung của Bộ GD&ĐT (minh họa: đăng ký nguyện vọng tháng 7/2024).",
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "HOCBA",
+   "name": "Xét học bạ THPT",
+   "description": "Xét điểm trung bình 3 học kỳ (lớp 11 và HK1 lớp 12) theo tổ hợp môn.",
+   "condition": "Điểm trung bình tổ hợp đạt từ 18.0 trở lên (minh họa).",
+   "timeline": "Đợt 1: 01/03–30/04/2024; Đợt 2: 01/05–30/06/2024 (minh họa).",
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "DGNL",
+   "name": "Xét điểm thi đánh giá năng lực",
+   "description": "Dùng kết quả kỳ thi ĐGNL của ĐHQG (minh họa) quy đổi thang 1200.",
+   "condition": "Điểm ĐGNL từ 650/1200 trở lên (minh họa).",
+   "timeline": "Theo các đợt thi ĐGNL trong năm 2024.",
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "XTT",
+   "name": "Xét tuyển thẳng và ưu tiên xét tuyển",
+   "description": "Thí sinh đạt giải học sinh giỏi cấp tỉnh/quốc gia, chứng chỉ quốc tế theo quy định minh họa.",
+   "condition": "Có minh chứng giải thưởng/chứng chỉ hợp lệ.",
+   "timeline": "Nộp hồ sơ trước 30/06/2024 (minh họa).",
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  }
+ ]
+}

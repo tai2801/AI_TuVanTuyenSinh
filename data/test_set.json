@@ -1,0 +1,245 @@
+{
+ "note": "Tap kiem tra doc lap (khong trung nguyen van voi tap huan luyen)",
+ "cases": [
+  {
+   "text": "Học phí ngành công nghệ thông tin 1 năm bao nhiêu?",
+   "intent": "hoi_hoc_phi",
+   "expect_fallback": false
+  },
+  {
+   "text": "hoc phi nganh marketing la bao nhieu",
+   "intent": "hoi_hoc_phi",
+   "expect_fallback": false
+  },
+  {
+   "text": "Ngành kế toán học phí có cao không ạ",
+   "intent": "hoi_hoc_phi",
+   "expect_fallback": false
+  },
+  {
+   "text": "Điểm chuẩn ngành trí tuệ nhân tạo năm 2023 là bao nhiêu",
+   "intent": "diem_chuan",
+   "expect_fallback": false
+  },
+  {
+   "text": "diem chuan nganh cntt nam ngoai",
+   "intent": "diem_chuan",
+   "expect_fallback": false
+  },
+  {
+   "text": "Ngành logistics năm 2022 lấy bao nhiêu điểm vậy",
+   "intent": "diem_chuan",
+   "expect_fallback": false
+  },
+  {
+   "text": "Ngành ngôn ngữ Anh xét tổ hợp nào?",
+   "intent": "to_hop_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "to hop cua nganh an toan thong tin",
+   "intent": "to_hop_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Em thi A00 có đăng ký ngành điện tử viễn thông được không",
+   "intent": "to_hop_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Trường xét học bạ không ạ?",
+   "intent": "phuong_thuc_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Có những phương thức xét tuyển nào vậy",
+   "intent": "phuong_thuc_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Xét điểm đánh giá năng lực cần bao nhiêu điểm",
+   "intent": "phuong_thuc_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Em thích lập trình và máy tính thì nên học ngành gì",
+   "intent": "goi_y_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "em gioi toan thich du lieu nen chon nganh nao",
+   "intent": "goi_y_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "Em thích vẽ, sáng tạo màu sắc thì học ngành nào hợp",
+   "intent": "goi_y_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "So sánh ngành công nghệ thông tin với khoa học máy tính",
+   "intent": "so_sanh_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "so sanh ke toan va tai chinh ngan hang giup em",
+   "intent": "so_sanh_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "Marketing với quản trị kinh doanh khác nhau thế nào",
+   "intent": "so_sanh_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "Trường có học bổng cho sinh viên giỏi không",
+   "intent": "hoc_bong",
+   "expect_fallback": false
+  },
+  {
+   "text": "hoc bong dau vao duoc bao nhieu phan tram",
+   "intent": "hoc_bong",
+   "expect_fallback": false
+  },
+  {
+   "text": "Ký túc xá một tháng bao nhiêu tiền",
+   "intent": "ky_tuc_xa",
+   "expect_fallback": false
+  },
+  {
+   "text": "Đăng ký ktx như thế nào ạ",
+   "intent": "ky_tuc_xa",
+   "expect_fallback": false
+  },
+  {
+   "text": "Khi nào hết hạn nộp hồ sơ xét học bạ đợt 1",
+   "intent": "thoi_gian_tuyen_sinh",
+   "expect_fallback": false
+  },
+  {
+   "text": "Lịch tuyển sinh 2024 có những đợt nào",
+   "intent": "thoi_gian_tuyen_sinh",
+   "expect_fallback": false
+  },
+  {
+   "text": "Hồ sơ xét tuyển gồm những giấy tờ gì",
+   "intent": "ho_so_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Nộp hồ sơ học bạ cần chuẩn bị những gì ạ",
+   "intent": "ho_so_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "Cho em xin số hotline phòng tuyển sinh",
+   "intent": "lien_he",
+   "expect_fallback": false
+  },
+  {
+   "text": "Địa chỉ của trường ở đâu vậy",
+   "intent": "lien_he",
+   "expect_fallback": false
+  },
+  {
+   "text": "Xin chào, em muốn hỏi về tuyển sinh",
+   "intent": "chao_hoi",
+   "expect_fallback": false
+  },
+  {
+   "text": "hello bot",
+   "intent": "chao_hoi",
+   "expect_fallback": false
+  },
+  {
+   "text": "Cảm ơn bạn nhiều nhé",
+   "intent": "cam_on",
+   "expect_fallback": false
+  },
+  {
+   "text": "thanks ad",
+   "intent": "cam_on",
+   "expect_fallback": false
+  },
+  {
+   "text": "Học phí bao nhiêu một năm ạ",
+   "intent": "hoi_hoc_phi",
+   "expect_fallback": false
+  },
+  {
+   "text": "Điểm chuẩn bao nhiêu",
+   "intent": "diem_chuan",
+   "expect_fallback": false
+  },
+  {
+   "text": "Ngành nào cũng được, học phí thế nào",
+   "intent": "hoi_hoc_phi",
+   "expect_fallback": false
+  },
+  {
+   "text": "Thời tiết ngày mai có mưa không",
+   "intent": "ngoai_pham_vi",
+   "expect_fallback": true
+  },
+  {
+   "text": "Giá xăng hôm nay tăng hay giảm",
+   "intent": "ngoai_pham_vi",
+   "expect_fallback": true
+  },
+  {
+   "text": "Chỉ em cách làm bánh flan",
+   "intent": "ngoai_pham_vi",
+   "expect_fallback": true
+  },
+  {
+   "text": "Đội nào vô địch World Cup gần nhất",
+   "intent": "ngoai_pham_vi",
+   "expect_fallback": true
+  },
+  {
+   "text": "Viết cho em bài thơ về mùa thu",
+   "intent": "ngoai_pham_vi",
+   "expect_fallback": true
+  },
+  {
+   "text": "Tỷ giá đô la hôm nay",
+   "intent": "ngoai_pham_vi",
+   "expect_fallback": true
+  },
+  {
+   "text": "hoc phi nganh tri tue nhan tao bn 1 nam",
+   "intent": "hoi_hoc_phi",
+   "expect_fallback": false
+  },
+  {
+   "text": "diem chuan nganh thiet ke do hoa 2023",
+   "intent": "diem_chuan",
+   "expect_fallback": false
+  },
+  {
+   "text": "em thik kinh doanh khoi nghiep nen hoc nganh gi",
+   "intent": "goi_y_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "so sanh cntt voi an toan thong tin",
+   "intent": "so_sanh_nganh",
+   "expect_fallback": false
+  },
+  {
+   "text": "ktx phong 4 nguoi gia sao",
+   "intent": "ky_tuc_xa",
+   "expect_fallback": false
+  },
+  {
+   "text": "phuong thuc xet tuyen thang can gi",
+   "intent": "phuong_thuc_xet_tuyen",
+   "expect_fallback": false
+  },
+  {
+   "text": "ho so xet hoc ba gom gi vay ad",
+   "intent": "ho_so_xet_tuyen",
+   "expect_fallback": false
+  }
+ ]
+}

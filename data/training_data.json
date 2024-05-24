@@ -1,0 +1,165 @@
+{
+ "note": "Tap mau huan luyen intent - tu viet cho du an Admission AI (ACU minh hoa)",
+ "intents": {
+  "chao_hoi": {
+   "patterns": [
+    "xin chào",
+    "chào bạn",
+    "hello",
+    "hi bot",
+    "chào ad",
+    "alo",
+    "có ai ở đó không",
+    "chào buổi sáng",
+    "hey",
+    "xin chao truong"
+   ]
+  },
+  "cam_on": {
+   "patterns": [
+    "cảm ơn bạn",
+    "cảm ơn nhiều",
+    "thanks",
+    "cám ơn ad",
+    "cảm ơn thông tin hữu ích",
+    "ok cảm ơn nhé"
+   ]
+  },
+  "hoi_hoc_phi": {
+   "patterns": [
+    "học phí ngành công nghệ thông tin bao nhiêu",
+    "học phí bao nhiêu một năm",
+    "ngành marketing học phí thế nào",
+    "tiền học mỗi năm là bao nhiêu",
+    "học phí của ngành kế toán",
+    "chi phí học ngành tài chính ngân hàng",
+    "học phí 1 năm ngành thiết kế đồ họa",
+    "hoc phi nganh cntt bao nhieu",
+    "học phí có đắt không",
+    "mức học phí của trường"
+   ]
+  },
+  "diem_chuan": {
+   "patterns": [
+    "điểm chuẩn ngành công nghệ thông tin năm 2023",
+    "điểm chuẩn bao nhiêu thì đậu",
+    "điểm trúng tuyển ngành marketing",
+    "năm ngoái ngành kế toán lấy bao nhiêu điểm",
+    "diem chuan nganh tai chinh ngan hang",
+    "điểm chuẩn các ngành năm 2022",
+    "ngành trí tuệ nhân tạo điểm chuẩn cao không",
+    "điểm đầu vào ngành logistics"
+   ]
+  },
+  "to_hop_xet_tuyen": {
+   "patterns": [
+    "ngành công nghệ thông tin xét tổ hợp nào",
+    "tổ hợp môn xét tuyển ngành ngôn ngữ anh",
+    "ngành kế toán xét khối nào",
+    "to hop xet tuyen nganh thiet ke do hoa",
+    "em thi khối a01 có xét ngành an toàn thông tin được không",
+    "ngành quản trị kinh doanh xét những tổ hợp gì",
+    "khối d01 xét được ngành nào"
+   ]
+  },
+  "phuong_thuc_xet_tuyen": {
+   "patterns": [
+    "trường có những phương thức xét tuyển nào",
+    "xét học bạ như thế nào",
+    "có xét điểm đánh giá năng lực không",
+    "phương thức tuyển sinh của trường",
+    "xét tuyển thẳng cần điều kiện gì",
+    "em muốn xét học bạ thì làm sao",
+    "cách thức xét tuyển năm nay",
+    "có mấy cách để xét tuyển vào trường"
+   ]
+  },
+  "goi_y_nganh": {
+   "patterns": [
+    "em thích lập trình nên học ngành gì",
+    "tư vấn ngành học cho em",
+    "em giỏi toán và thích máy tính nên chọn ngành nào",
+    "em thích vẽ và sáng tạo thì học ngành gì",
+    "gợi ý ngành phù hợp với sở thích kinh doanh",
+    "em học tốt tiếng anh nên học ngành gì",
+    "chưa biết chọn ngành nào",
+    "em thích tài chính đầu tư nên học gì",
+    "ngành nào hợp với người thích số liệu cẩn thận",
+    "tư vấn chọn ngành theo sở thích"
+   ]
+  },
+  "so_sanh_nganh": {
+   "patterns": [
+    "so sánh ngành công nghệ thông tin và khoa học máy tính",
+    "ngành marketing khác gì quản trị kinh doanh",
+    "so sánh kế toán và tài chính ngân hàng",
+    "khác nhau giữa công nghệ thông tin và trí tuệ nhân tạo thế nào",
+    "so sanh nganh logistics va quan tri kinh doanh",
+    "nên chọn ngôn ngữ anh hay marketing"
+   ]
+  },
+  "hoc_bong": {
+   "patterns": [
+    "trường có học bổng không",
+    "học bổng đầu vào như thế nào",
+    "làm sao để được học bổng",
+    "điểm cao có được giảm học phí không",
+    "chính sách học bổng của trường",
+    "hoc bong cho sinh vien gioi",
+    "học bổng duy trì các năm sau ra sao"
+   ]
+  },
+  "ky_tuc_xa": {
+   "patterns": [
+    "ký túc xá giá bao nhiêu",
+    "có ký túc xá cho sinh viên không",
+    "ở ktx hết bao nhiêu một tháng",
+    "đăng ký ký túc xá thế nào",
+    "phòng ký túc xá mấy người",
+    "ktx có gần trường không"
+   ]
+  },
+  "thoi_gian_tuyen_sinh": {
+   "patterns": [
+    "khi nào trường bắt đầu nhận hồ sơ",
+    "thời gian xét tuyển đợt 1",
+    "lịch tuyển sinh năm 2024",
+    "bao giờ hết hạn nộp hồ sơ học bạ",
+    "thời gian nhập học là khi nào",
+    "deadline xét tuyển tháng mấy"
+   ]
+  },
+  "ho_so_xet_tuyen": {
+   "patterns": [
+    "hồ sơ xét tuyển gồm những gì",
+    "nộp hồ sơ cần giấy tờ gì",
+    "xét học bạ cần chuẩn bị gì",
+    "thủ tục đăng ký xét tuyển",
+    "giấy tờ cần thiết khi nộp hồ sơ",
+    "hồ sơ xét tuyển thẳng gồm gì"
+   ]
+  },
+  "lien_he": {
+   "patterns": [
+    "liên hệ phòng tuyển sinh thế nào",
+    "số điện thoại tư vấn tuyển sinh",
+    "địa chỉ trường ở đâu",
+    "email phòng tuyển sinh là gì",
+    "hotline tuyển sinh bao nhiêu",
+    "trường nằm ở đâu"
+   ]
+  },
+  "ngoai_pham_vi": {
+   "patterns": [
+    "thời tiết hôm nay thế nào",
+    "giá vàng hôm nay bao nhiêu",
+    "nấu phở bò cần nguyên liệu gì",
+    "kết quả bóng đá tối qua",
+    "dịch câu này sang tiếng pháp",
+    "giá bitcoin hiện tại",
+    "kể một câu chuyện cười",
+    "hôm nay là thứ mấy"
+   ]
+  }
+ }
+}

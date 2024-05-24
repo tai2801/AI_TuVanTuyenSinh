@@ -1,0 +1,358 @@
+{
+ "university": "Đại học Công nghệ Á Châu (ACU) – trường giả định",
+ "note": "TOÀN BỘ SỐ LIỆU LÀ DỮ LIỆU MINH HỌA phục vụ đồ án, không phải số liệu của trường thật.",
+ "applies_year": 2024,
+ "majors": [
+  {
+   "code": "CNTT",
+   "name": "Công nghệ thông tin",
+   "combos": [
+    "A00",
+    "A01",
+    "D01"
+   ],
+   "tuition_per_year": 28000000,
+   "benchmark_scores": {
+    "2021": 23.5,
+    "2022": 24.0,
+    "2023": 24.5
+   },
+   "quota": 600,
+   "description": "Đào tạo lập trình, phát triển phần mềm, hệ thống thông tin và mạng máy tính.",
+   "interests": [
+    "lap trinh",
+    "may tinh",
+    "phan mem",
+    "cong nghe",
+    "game",
+    "web"
+   ],
+   "strong_subjects": [
+    "toan",
+    "tin",
+    "ly",
+    "anh"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "KHMT",
+   "name": "Khoa học máy tính",
+   "combos": [
+    "A00",
+    "A01"
+   ],
+   "tuition_per_year": 30000000,
+   "benchmark_scores": {
+    "2021": 24.0,
+    "2022": 24.75,
+    "2023": 25.25
+   },
+   "quota": 200,
+   "description": "Nghiên cứu thuật toán, trí tuệ nhân tạo, khoa học dữ liệu ở mức chuyên sâu.",
+   "interests": [
+    "thuật toán",
+    "du lieu",
+    "ai",
+    "nghien cuu",
+    "toan hoc"
+   ],
+   "strong_subjects": [
+    "toan",
+    "tin",
+    "ly"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "TTNT",
+   "name": "Trí tuệ nhân tạo",
+   "combos": [
+    "A00",
+    "A01",
+    "D01"
+   ],
+   "tuition_per_year": 32000000,
+   "benchmark_scores": {
+    "2021": 23.0,
+    "2022": 24.0,
+    "2023": 24.75
+   },
+   "quota": 150,
+   "description": "Học máy, học sâu, xử lý ngôn ngữ tự nhiên và thị giác máy tính.",
+   "interests": [
+    "ai",
+    "tri tue nhan tao",
+    "robot",
+    "du lieu",
+    "tu dong hoa"
+   ],
+   "strong_subjects": [
+    "toan",
+    "tin",
+    "anh"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "ATTT",
+   "name": "An toàn thông tin",
+   "combos": [
+    "A00",
+    "A01",
+    "D01"
+   ],
+   "tuition_per_year": 29000000,
+   "benchmark_scores": {
+    "2021": 22.5,
+    "2022": 23.25,
+    "2023": 23.75
+   },
+   "quota": 180,
+   "description": "Bảo mật hệ thống, an ninh mạng, điều tra số và quản trị rủi ro thông tin.",
+   "interests": [
+    "bao mat",
+    "hacker",
+    "an ninh mang",
+    "may tinh"
+   ],
+   "strong_subjects": [
+    "toan",
+    "tin",
+    "ly"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "QTKD",
+   "name": "Quản trị kinh doanh",
+   "combos": [
+    "A00",
+    "A01",
+    "D01",
+    "C00"
+   ],
+   "tuition_per_year": 24000000,
+   "benchmark_scores": {
+    "2021": 21.0,
+    "2022": 21.5,
+    "2023": 22.0
+   },
+   "quota": 500,
+   "description": "Quản trị doanh nghiệp, marketing cơ bản, khởi nghiệp và vận hành kinh doanh.",
+   "interests": [
+    "kinh doanh",
+    "khoi nghiep",
+    "quan ly",
+    "lanh dao"
+   ],
+   "strong_subjects": [
+    "toan",
+    "van",
+    "anh"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "MKT",
+   "name": "Marketing",
+   "combos": [
+    "A00",
+    "A01",
+    "D01",
+    "C00"
+   ],
+   "tuition_per_year": 25000000,
+   "benchmark_scores": {
+    "2021": 21.5,
+    "2022": 22.25,
+    "2023": 22.75
+   },
+   "quota": 350,
+   "description": "Marketing số, thương hiệu, truyền thông và nghiên cứu thị trường.",
+   "interests": [
+    "truyen thong",
+    "quang cao",
+    "sang tao",
+    "mang xa hoi",
+    "thuong hieu"
+   ],
+   "strong_subjects": [
+    "van",
+    "anh",
+    "toan"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "KETO",
+   "name": "Kế toán",
+   "combos": [
+    "A00",
+    "A01",
+    "D01"
+   ],
+   "tuition_per_year": 22000000,
+   "benchmark_scores": {
+    "2021": 20.0,
+    "2022": 20.5,
+    "2023": 21.0
+   },
+   "quota": 300,
+   "description": "Kế toán doanh nghiệp, kiểm toán, thuế và phân tích tài chính cơ bản.",
+   "interests": [
+    "so lieu",
+    "tai chinh",
+    "can than",
+    "van phong"
+   ],
+   "strong_subjects": [
+    "toan",
+    "van"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "TCNH",
+   "name": "Tài chính – Ngân hàng",
+   "combos": [
+    "A00",
+    "A01",
+    "D01"
+   ],
+   "tuition_per_year": 24000000,
+   "benchmark_scores": {
+    "2021": 20.5,
+    "2022": 21.25,
+    "2023": 21.75
+   },
+   "quota": 300,
+   "description": "Tài chính doanh nghiệp, ngân hàng, đầu tư và bảo hiểm.",
+   "interests": [
+    "tai chinh",
+    "dau tu",
+    "ngan hang",
+    "chung khoan"
+   ],
+   "strong_subjects": [
+    "toan",
+    "anh"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "NNA",
+   "name": "Ngôn ngữ Anh",
+   "combos": [
+    "D01",
+    "D14",
+    "D15"
+   ],
+   "tuition_per_year": 21000000,
+   "benchmark_scores": {
+    "2021": 20.0,
+    "2022": 20.75,
+    "2023": 21.5
+   },
+   "quota": 250,
+   "description": "Tiếng Anh thương mại, biên phiên dịch, giảng dạy và truyền thông quốc tế.",
+   "interests": [
+    "tieng anh",
+    "ngoai ngu",
+    "du lich",
+    "giao tiep"
+   ],
+   "strong_subjects": [
+    "anh",
+    "van"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "TKDH",
+   "name": "Thiết kế đồ họa",
+   "combos": [
+    "H00",
+    "H01",
+    "V00"
+   ],
+   "tuition_per_year": 26000000,
+   "benchmark_scores": {
+    "2021": 19.5,
+    "2022": 20.0,
+    "2023": 20.5
+   },
+   "quota": 200,
+   "description": "Thiết kế thương hiệu, đồ họa truyền thông, UI/UX và mỹ thuật số.",
+   "interests": [
+    "ve",
+    "my thuat",
+    "sang tao",
+    "thiet ke",
+    "mau sac"
+   ],
+   "strong_subjects": [
+    "van",
+    "anh"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "DTVT",
+   "name": "Kỹ thuật điện tử – viễn thông",
+   "combos": [
+    "A00",
+    "A01"
+   ],
+   "tuition_per_year": 25000000,
+   "benchmark_scores": {
+    "2021": 20.0,
+    "2022": 20.5,
+    "2023": 21.0
+   },
+   "quota": 250,
+   "description": "Điện tử, vi mạch, viễn thông, IoT và hệ thống nhúng.",
+   "interests": [
+    "dien tu",
+    "iot",
+    "phan cung",
+    "vien thong"
+   ],
+   "strong_subjects": [
+    "toan",
+    "ly",
+    "tin"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  },
+  {
+   "code": "LOG",
+   "name": "Logistics và quản lý chuỗi cung ứng",
+   "combos": [
+    "A00",
+    "A01",
+    "D01"
+   ],
+   "tuition_per_year": 24500000,
+   "benchmark_scores": {
+    "2021": 21.0,
+    "2022": 21.75,
+    "2023": 22.25
+   },
+   "quota": 280,
+   "description": "Vận hành kho, vận tải, xuất nhập khẩu và chuỗi cung ứng toàn cầu.",
+   "interests": [
+    "van tai",
+    "kho hang",
+    "xuat nhap khau",
+    "to chuc"
+   ],
+   "strong_subjects": [
+    "toan",
+    "anh",
+    "van"
+   ],
+   "source": "Du lieu tuyen sinh minh hoa cua Dai hoc Cong nghe A Chau (ACU), ap dung nam 2024 - DU LIEU MINH HOA, khong phai so lieu cua truong that"
+  }
+ ]
+}
