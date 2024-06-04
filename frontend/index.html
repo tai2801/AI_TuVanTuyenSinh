@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admission AI – Tư vấn tuyển sinh ACU (dữ liệu minh họa)</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header>
+  <h1>🎓 Admission AI – Đại học Công nghệ Á Châu (ACU)</h1>
+  <p class="note">Chatbot tư vấn tuyển sinh · <strong>Toàn bộ số liệu là DỮ LIỆU MINH HỌA</strong> của trường giả định, phục vụ đồ án.</p>
+  <nav><a href="/admin">Trang quản trị / thống kê</a></nav>
+</header>
+<main>
+  <section class="majors">
+    <h2>Ngành đào tạo (minh họa)</h2>
+    <div id="majorList" class="grid"></div>
+  </section>
+  <section class="chatbox">
+    <div id="messages" class="messages"></div>
+    <div id="suggestions" class="suggestions"></div>
+    <form id="chatForm">
+      <input id="chatInput" type="text" placeholder="Hỏi về học phí, điểm chuẩn, tổ hợp, gợi ý ngành..." autocomplete="off">
+      <button type="submit">Gửi</button>
+    </form>
+    <p id="status" class="status"></p>
+  </section>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>

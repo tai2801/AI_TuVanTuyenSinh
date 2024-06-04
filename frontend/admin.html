@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quản trị – Admission AI (dữ liệu minh họa)</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header>
+  <h1>Quản trị dữ liệu tư vấn – Admission AI</h1>
+  <p class="note">Token admin demo: <code>admin-demo-123</code> (chỉ dùng cho đồ án demo, đổi qua biến môi trường ADMIN_TOKEN khi triển khai).</p>
+  <nav><a href="/">← Về trang chat</a></nav>
+</header>
+<div class="admin-wrap">
+  <div class="panel">
+    <h2>Thống kê hội thoại</h2>
+    <button id="btnStats">Tải thống kê</button>
+    <div id="statsOut"></div>
+  </div>
+  <div class="panel">
+    <h2>Thêm / sửa ngành (JSON)</h2>
+    <textarea id="majorJson" rows="6">{"code":"MAU","name":"Ngành mẫu","combos":["A00"],"tuition_per_year":20000000,"benchmark_scores":{"2023":20.0},"quota":100,"description":"Mô tả minh họa","interests":[],"strong_subjects":["toan"],"source":"Dữ liệu minh họa ACU 2024"}</textarea>
+    <button id="btnMajor">Lưu ngành</button>
+    <input id="delMajorCode" placeholder="Mã ngành cần xóa">
+    <button id="btnDelMajor">Xóa ngành</button>
+    <p id="majorMsg"></p>
+  </div>
+  <div class="panel">
+    <h2>Thêm / sửa FAQ (JSON)</h2>
+    <textarea id="faqJson" rows="5">{"id":"faq_mau","topic":"hoc_bong","question":"Câu hỏi mẫu?","answer":"Câu trả lời minh họa.","source":"Dữ liệu minh họa ACU 2024"}</textarea>
+    <button id="btnFaq">Lưu FAQ</button>
+    <input id="delFaqId" placeholder="ID FAQ cần xóa">
+    <button id="btnDelFaq">Xóa FAQ</button>
+    <p id="faqMsg"></p>
+  </div>
+</div>
+<script src="/static/admin.js"></script>
+</body>
+</html>
